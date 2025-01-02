@@ -36,8 +36,8 @@ This project is a web-based application designed to detect fraudulent job postin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/job-fraud-detection.git
-cd job-fraud-detection
+git clone https://github.com/Harsh-beep/Job-Posting-Authenticity-Analysis.git
+cd Job-Posting-Authenticity-Analysis
 ```
 ### 2. Set Up a Virtual Environment
 #### For Linux/Mac:
