@@ -73,6 +73,7 @@ python app.py
 ## **Project Structure**
 ```
 Job-Posting-Authenticity-Analysis/
+├──Job_Posting_Authenticity_Analysis.ipynb   # Code Fiile
 ├── app.py                 # Flask application
 ├── templates/
 │   └── index.html         # Front-end HTML template
