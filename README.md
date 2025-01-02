@@ -100,14 +100,14 @@ We'd like to thank the following individuals for their contributions:
 <tr>
       <td align="center">
         <a href="https://github.com/Harsh-beep">
-            <img src="https://avatars.githubusercontent.com/u/106619187?v=4" width="100;" alt="Harsh-beep"/>
+            <img src="https://avatars.githubusercontent.com/u/76943884?v=4" width="100;" alt="Harsh-beep"/>
             <br />
             <sub><b>Harsh</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/sneha9231">
-            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="sneha9231"/>
+            <img src="https://avatars.githubusercontent.com/u/76943884?v=4" width="100;" alt="sneha9231"/>
             <br />
             <sub><b>Sneha</b></sub>
         </a>
