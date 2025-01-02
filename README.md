@@ -93,6 +93,41 @@ Job-Posting-Authenticity-Analysis/
 ![image](https://github.com/user-attachments/assets/69abc4a6-92d5-46d0-b92c-a3974b61b01a)
 ![image](https://github.com/user-attachments/assets/73096720-3f12-4a54-9fbb-a4fb12b9d9ef)
 
+## Contributors
+We'd like to thank the following individuals for their contributions:
+
+<table>
+<tr>
+      <td align="center">
+        <a href="https://github.com/Harsh-beep">
+            <img src="https://avatars.githubusercontent.com/u/106619187?v=4" width="100;" alt="Harsh-beep"/>
+            <br />
+            <sub><b>Harsh</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sneha9231">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="sneha9231"/>
+            <br />
+            <sub><b>Sneha</b></sub>
+        </a>
+
+</tr>
+</table>
+
+### Mentor
+<table>
+    <tr>
+    <td align="center">
+        <a href="https://www.linkedin.com/in/sai-vishal-varma-nadimpalli/">
+            <img src="https://media.licdn.com/dms/image/v2/C5103AQFpd869wSrNvw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1566318630295?e=1741219200&v=beta&t=uyHsGf-pSukg44SMdLBOIKd_cGC7iOHuwSBx9cYH-Ek" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>Mr. Sai Vishal Varma Nadimpalli</b></sub>
+        </a>
+    </td>
+    </tr>
+</table>
+
 
 
 
