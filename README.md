@@ -107,6 +107,13 @@ We'd like to thank the following individuals for their contributions:
             <sub><b>Harsh</b></sub>
         </a>
     </td>
+  <td align="center">
+        <a href="https://github.com/Anuragk0106">
+            <img src="https://avatars.githubusercontent.com/u/76943884?v=4" width="100;" alt="Anuragk0106"/>
+            <br />
+            <sub><b>Harsh</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/sneha9231">
             <img src="https://avatars.githubusercontent.com/u/76943884?v=4" width="100;" alt="sneha9231"/>
