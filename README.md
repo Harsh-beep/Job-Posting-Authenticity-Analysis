@@ -1,5 +1,7 @@
 # **Job Fraud Detection Application**
 
+-> **Live: https://job-posting-authenticity-analysis.onrender.com**
+
 ## **Overview**
 This project is a web-based application designed to detect fraudulent job postings. Using machine learning models and a user-friendly interface, the application predicts whether a job posting is legitimate or fraudulent based on the provided job description.
 
